@@ -1,3 +1,8 @@
+### My note
+Use python3 branch
+
+Look at changes of load conv weight in commit in cfg.py
+
 ### pytorch-yolo3
 Convert https://pjreddie.com/darknet/yolo/ into pytorch. Currently this repository works on Python 3.6.1  + pytorch 0.3.1.post3
 
